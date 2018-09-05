@@ -1,0 +1,76 @@
+{
+    "category": "Stews",
+    "foodItems": [
+        {
+            "name": "Fabada Asturiana",
+            "description": "",
+            "ingredients": "(white beans, Serrano ham, choriza & bacon)",
+            "price": "$14 serving",
+            "image": ""
+        },
+        {
+            "name": "Fabes con Almejas",
+            "description": "",
+            "price": "",
+            "image": ""
+        },
+        {
+            "name": "Caldo Gallego",
+            "description": "(White beans, Turnip greens, Potatoes, Bacon and Beef)",
+            "price": "$14 each",
+            "image": ""
+        },
+        {
+            "name": "Caldo Gallego Vegetariana",
+            "description": "White beans, Turnip greens, Potatoes",
+            "price": "$12 each",
+            "image": ""
+        },
+        {
+            "name": "Judias Pintas con Costilla",
+            "description": "",
+            "ingredients": "Pinto beans, Pork Ribs, and Chorizo",
+            "price": "$15 serving",
+            "image": ""
+        },
+        {
+            "name": "Letehas con Chorizo",
+            "description": "",
+            "ingredients": "Lentils, Chorizo, Potatoes, and Carrots",
+            "price": "$13 serving",
+            "image": ""
+        },
+        {
+            "name": "Potaje de Garbanzos y Espinacas",
+            "description": "",
+            "ingredients": "Spinach & Chick pea Stew",
+            "price": "$10 Each",
+            "image": ""
+        },
+        {
+            "name": "Patatas a la Riojana",
+            "description": "Potatoes and Chorizo",
+            "price": "$12 each",
+            "image": ""
+        },
+        {
+            "name": "Sopa Castellana",
+            "description": "Add Egg + $1",
+            "ingredients": "Bread, Serrano ham, Garlic, Onions. Sweet papika, and White wine",
+            "price": "$12 each",
+            "image": ""
+        },
+        {
+            "name": "Menestra de Verduras",
+            "description": "Mixed Vegetable Soup",
+            "price": "$12 each",
+            "image": ""
+        },
+        {
+            "name": "Zarzuela de mariscos",
+            "description": "Shrimp mussels, calamari, scallops, salmos & fish stock soup",
+            "price": "$23 each",
+            "image": ""
+        }
+    ]
+}

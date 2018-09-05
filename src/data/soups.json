@@ -1,0 +1,47 @@
+{
+    "category": "Soups",
+    "foodItems": [
+        {
+            "name": "Gazpacho Andaluz",
+            "description": "",
+            "price": "$6.50 serving",
+            "image": ""
+        },
+        {
+            "name": "Avocado Cream Soup",
+            "description": "(Contains 1 spoon of Tequila)",
+            "price": "$7 each",
+            "image": ""
+        },
+        {
+            "name": "Salmorejo Cordobes",
+            "description": "",
+            "price": "$5 serving",
+            "image": ""
+        },
+        {
+            "name": "Zucchini and Cheese Cream Soup",
+            "description": "",
+            "price": "$7 serving",
+            "image": ""
+        },
+        {
+            "name": "Spinach Cream Soup",
+            "description": "",
+            "price": "$6.50 serving",
+            "image": ""
+        },
+        {
+            "name": "Vichyssoise",
+            "description": "",
+            "price": "$7 serving",
+            "image": ""
+        },
+        {
+            "name": "Peas Soup",
+            "description": "",
+            "price": "$6 serving",
+            "image": ""
+        }
+    ]
+}
