@@ -1,21 +1,26 @@
 import React, { Component } from 'react';
+import { HashRouter,Switch, Route, Redirect } from 'react-router-dom'
+import FoodMenu from './components/FoodMenu/FoodMenu'
+import Home from './components/Home/Home'
 import './App.css';
-import FoodItem from './FoodItem/FoodItem';
-import TabularMenu from './TabularMenu/TabularMenu'
+
 class App extends Component {
 
     render() {
-        let customData = require('./data/paellas_And_Rice.json');
-        let list = customData.foodItems.map(function (item) {
-            return <FoodItem id={item.id} name={item.name} description={item.description} price={item.price} category={item.category} image={item.image} />;
-        });
-
         return (
-            <div className="App">
-                <TabularMenu></TabularMenu>
-                <h1>{customData.category}</h1>
-                {list}
-            </div>
+            <HashRouter>
+                <div className="App">
+                    <Switch>
+                        <Route exact path='/' component={Home} />
+                        <Route path='/paella' component={FoodMenu} />
+                        <Route path='/soups' component={FoodMenu} />
+                        <Route path='/stews' component={FoodMenu} />
+                        <Route path='/tapas' component={FoodMenu} />
+                        <Route path='/everthing' component={FoodMenu} />
+                        <Redirect to="/" />
+                    </Switch>
+                </div>
+            </HashRouter>
         );
     }
 }

@@ -5,67 +5,67 @@
             "name": "Paella Marinera",
             "description": "Head on Shrimp, mussels, calamari, scallops, fish & mixed Vegetables",
             "price": "$24 per Serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Paella_Marinera.png"
+            "image": "paellas_and_rice/Paella_Marinera.png"
         },        
         {
             "name": "Arros Negre",
             "description": "Head on Shrimp, mussels, calamari, scallops, fish & mixed Vegetables",
             "price": "$20 per serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Arros_Negre.png"
+            "image": "paellas_and_rice/Arros_Negre.png"
         },
         {        
             "name": "Paella de Mariscos",
             "description": "Head on Shrimp, mussels and fish broth",
             "price": "$22 per serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Paella_de_Mariscos.png"
+            "image": "paellas_and_rice/Paella_de_Mariscos.png"
         },
         {
             "name": "Paella Mixta",
             "description": "Head on Shrimp, mussels, fish broth, chicken & vegetables",
             "price": "$23.50 per serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/"
+            "image": "paellas_and_rice/"
         },
         {
             "name": "Paella de Mariscos w/Peeled Shrimp",
             "description": "",
             "price": "",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Paella_de_Mariscos_w:Peeled_Shrimp.png"
+            "image": "paellas_and_rice/Paella_de_Mariscos_w:Peeled_Shrimp.png"
         },
         {
             "name": "Paella de Mariscos & Tilapia",
             "description": "",
             "price": "",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Paella_de_Mariscos_And_Tilapia.png"
+            "image": "paellas_and_rice/Paella_de_Mariscos_And_Tilapia.png"
         },
         {
             "name": "Arroz Abanda",
             "description": "Fisherman's meal is The catch of the day Fish! broth and fish",
             "price": "",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Arroz_Abanda.png"
+            "image": "paellas_and_rice/Arroz_Abanda.png"
         },
         {
             "name": "Paella Vegetariana",
             "description": "Mixed vegetables with chick peas or lima beans",
             "price": "$15 per serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Paella_Vegetariana.png"
+            "image": "paellas_and_rice/Paella_Vegetariana.png"
         },
         {
             "name": "Chicken Paella",
             "description": "Chicken & vegetables",
             "price": "$21 per serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Chicken_And_Vegetables.png"
+            "image": "paellas_and_rice/Chicken_And_Vegetables.png"
         },
         {
             "name": "Arroz Al Horno",
             "description": "Pork ribs, beef, chorizo, blood sausage, potatoes, chick peas",
             "price": "$21 per serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Arroz_Al_Horno.png"
+            "image": "paellas_and_rice/Arroz_Al_Horno.png"
         },
         {
             "name": "Paella Campestre",
             "description": "Pork, beef, chorizo, vegetables & chick peas",
             "price": "$19 per Serving",
-            "image": "http://localhost:8080/mayro/paellas_and_rice/Paella_Campestre.png"
+            "image": "paellas_and_rice/Paella_Campestre.png"
         }
     ]
 }
